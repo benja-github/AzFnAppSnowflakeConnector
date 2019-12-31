@@ -1,0 +1,2 @@
+# AzFnAppSnowflakeConnector
+ADF Snowflake Connector
